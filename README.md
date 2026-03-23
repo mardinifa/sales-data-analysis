@@ -21,7 +21,7 @@ powerbi/       → Power BI dashboard file (.pbix)
 images/        → dashboard screenshots
 README.md      → project documentation
 
-## 🔍 Data Analysis Process
+🔍 Data Analysis Process
 Data Cleaning in Excel
 Removed duplicates
 Handled missing values
@@ -36,14 +36,14 @@ Analyzed sales trends, top products, and profitability
 Identified high-performing regions and customer segments
 📸 Dashboard Preview
 
-## 📊 Key Insights from the Dashboard
+📊 Key Insights from the Dashboard
 Total Distinct Products: 1,849
 Total Profit: $286.6K
 Total Customers: 800
 Total Sales: $2.3M
 Total Quality Issues: 38K
 
-## Top Insights:
+Top Insights:
 
 Top-selling categories: Technology and Furniture
 Highest sales by year: 2024 leads with $0.73M in sales
@@ -51,12 +51,14 @@ Regional performance: West region has the largest share (31.56%)
 Segment analysis: Consumer segment contributes the highest sales (50.5%)
 Shipping mode: Standard shipping is most used (59.15%)
 Profitability by sub-category: Phones, Chairs, and Tables generate highest profits
-## 🚀 How to Use This Project
+
+🚀 How to Use This Project
 Download the .pbix file from the powerbi/ folder
 Open it in Power BI Desktop
 Use the slicers to filter by City, Product, Month, or Year
 Interact with the visuals to explore trends, profits, and customer insights
-## 📌 Conclusion
+
+📌 Conclusion
 
 This dashboard provides a clear overview of sales performance and profitability, helping decision-makers identify trends, top products, and areas for improvement. It demonstrates how raw sales data can be transformed into actionable business insights using Excel and Power BI.
 
